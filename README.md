@@ -1,5 +1,3 @@
-# LangchainStreamlitBot
+# EmbedChain - GSoC23 Bot
 
-End-to-end implementation of a Chatbot using Langchain and Streamlit Chat
-
-
+## Pie & AI Bangalore Event- Build end-to-end LLM app with Embedchain.ai
