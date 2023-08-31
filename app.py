@@ -3,7 +3,7 @@ from embedchain import App
 import os
 from streamlit_chat import message
 from streamlit_extras.colored_header import colored_header
-import api
+#import api
 
 #os.environ['OPENAI_API_KEY'] = api.get_key()
 API_KEY = st.secrets['OPENAI_API_KEY']
