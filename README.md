@@ -4,6 +4,4 @@
 
 ## Watch recording
 
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/vIhDh7H73Ww?si=W7cVAeeY8QCP9l1D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+[![embedchain_event](https://github.com/lucifertrj/EmbedChain_GSoC23_BOT/assets/66197713/722f90bc-3d48-4243-a5d3-929f50bfcac0)](https://www.youtube.com/watch?v=vIhDh7H73Ww&t=82s)
